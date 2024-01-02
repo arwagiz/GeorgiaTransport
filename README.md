@@ -62,8 +62,7 @@ Disclaimer: Findings, interpretations and conclusions expressed in this chart ar
 
 Contributors:
 - Tuan Do: tuan.do@giz.de
-- Lena Plikat lena.plikat@giz.de
-- Sergiu Gradinaru
+
 
 Compiled by / Contact:
 - Armin Wagner: armin.wagner@giz.de
