@@ -20,16 +20,17 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
--
+- 2023-2030 National Transport and Logistics Strategy of Georgia: https://www.economy.ge/uploads/files/2017/transport/2023/strategy/transportisa_da_logistikis_strategia_2023_2030.pdf
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
--
+- National Road Safety Strategy 2022-2025: https://www.economy.ge/?page=ecopolitic&s=20
+- 
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
-- 
-
+- GEORGIA’S UPDATED Nationally Determined Contribution (NDC) 2021: https://unfccc.int/sites/default/files/NDC/2022-06/NDC%20Georgia_ENG%20WEB-approved.pdf
+- Georgia’s Long-Term Low Emission Development Strategy 2050: https://www.undp.org/georgia/publications/georgia-low-emission-development-strategy-2050
 
 ### EU accession <a name="eu-accession"></a> 
 
