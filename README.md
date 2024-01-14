@@ -43,11 +43,15 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
-- 
-
+- Tbilisi: Green City Action Plan, Tbilisi City Hall, EBRD: https://ebrdgreencities.com/assets/Uploads/PDF/GCAP_Tblisi.pdf 
+- Tbilisi: TBILISI SUSTAINABLE URBAN TRANSPORT STRATEGY, ADB, Tbilisi City Hall, MDF, 2015:http://mdf.org.ge/storage/assets/file/documents%202016/murtazi/Strategic%20Paper%20Report%20PDF%20Geo(18_03_2016)/Strategic%20Paper%20Report%20final%20ENG.pdf
+- Batumi: Batumi Green City Action Plan, EBRD: https://ebrdgreencities.com/assets/Uploads/PDF/Batumi-Green-City-Action-Plan-English-V5.pdf
+- Batumi: Integrated Sustainable Urban Mobility Plan of Batumi, UNDP, 2017: https://www.undp.org/sites/g/files/zskgke326/files/migration/ge/UNDP_GE_ENV_Green_Cities_Batumi_Integrated_Sustainable_Urban_Mobility_Plan_ENG.pdf
+ 
+  
 ### Studies and research papers <a name="studies-research"></a> 
 
-- 
+- Urban public transport reform in Tbilisi, Bankwatch, 2022: https://greenalt.org/app/uploads/2022/10/Tbilisi-urban-public-transit-reform.pdf
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
