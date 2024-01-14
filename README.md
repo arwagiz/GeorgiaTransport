@@ -54,6 +54,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Urban public transport reform in Tbilisi, Bankwatch, 2022: https://greenalt.org/app/uploads/2022/10/Tbilisi-urban-public-transit-reform.pdf
 - Georgia Transport Sector Assessment, Strategy, and Road Map, ADB, 2014: https://www.adb.org/documents/georgia-transport-sector-assessment-strategy-and-road-map
 - A Policy Framework for Green Transportation in Georgia, Wolrd Bank, 2012: https://documents1.worldbank.org/curated/en/229641468031545347/pdf/702900ESW0whit0nsportation00Final0.pdf
+- Decarbonisation scenarios for the transport sector in Georgia, New Climate Institute, GIZ, 2021: https://newclimate.org/sites/default/files/2021/01/NewClimate_Decarbonisation-scenarios-for-Georgia-transport-sector_Jan21_2.pdf
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
