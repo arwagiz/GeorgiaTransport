@@ -1,6 +1,10 @@
 # Transport in Georgia
 Plans, data and other documents on transport in Georgia
 
+<b> 
+Community list of publications, data and other useful information on transport in Georgia  :bike::bus::train:🌳🚊
+</b><br><br>
+
 Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ------------------------------
