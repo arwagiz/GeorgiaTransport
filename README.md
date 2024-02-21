@@ -11,7 +11,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Other national and sectoral documents](#other-national-sectoral-documents) 
 - [Climate and energy policies](#climate-energy-policies) 
 - [EU accession](#eu-accession)
-- [Trade Facilitation](#trade-facilitation)  
+- [Trade Facilitation](#trade-facilitation)
+- [Digitalisation](#digitalisation)
+- [Gender and Equality](#gender)
 - [Local Transport Plans](#local-transport-plans) 
 - [Studies and research papers](#studies-research) 
 - [International cooperation projects and strategies](#International-cooperation) 
@@ -38,6 +40,14 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
 
+
+
+
+### Digitalisation <a name="digitalisation"></a>
+
+-
+
+### Gender and Equality <a name="gender"></a>
 
 - 
 
