@@ -31,7 +31,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
-- GEORGIA’S UPDATED Nationally Determined Contribution (NDC) 2021: https://unfccc.int/sites/default/files/NDC/2022-06/NDC%20Georgia_ENG%20WEB-approved.pdf
+- Georgia’s Updated Nationally Determined Contribution (NDC) 2021: https://unfccc.int/sites/default/files/NDC/2022-06/NDC%20Georgia_ENG%20WEB-approved.pdf
 - Georgia’s Long-Term Low Emission Development Strategy 2050: https://www.undp.org/georgia/publications/georgia-low-emission-development-strategy-2050
 
 ### EU accession <a name="eu-accession"></a> 
@@ -40,7 +40,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
 
-
+-
 
 
 ### Digitalisation <a name="digitalisation"></a>
@@ -84,4 +84,4 @@ Contributors:
 
 Compiled by / Contact:
 - Armin Wagner: armin.wagner@giz.de
-- (as of Dcember 2023)
+- (as of December 2023)
