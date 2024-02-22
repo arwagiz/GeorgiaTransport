@@ -35,6 +35,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
+- <b> Integrated National Energy and Climate Plan of Georgia </b>, Draft, July 2023: https://www.energy-community.org/implementation/package/NECP.html
 - <b> Georgia’s Updated Nationally Determined Contribution (NDC) 2021 </b>: https://unfccc.int/sites/default/files/NDC/2022-06/NDC%20Georgia_ENG%20WEB-approved.pdf
 - <b> Georgia’s Long-Term Low Emission Development Strategy 2050 </b>: https://www.undp.org/georgia/publications/georgia-low-emission-development-strategy-2050
 - <b> Georgia's 2030 Climate Change Strategy </b> , MEPA 2021: https://mepa.gov.ge/En/Files/ViewFile/50123
