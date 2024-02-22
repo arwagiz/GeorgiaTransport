@@ -36,11 +36,11 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - <b> Georgia’s Updated Nationally Determined Contribution (NDC) 2021 </b>: https://unfccc.int/sites/default/files/NDC/2022-06/NDC%20Georgia_ENG%20WEB-approved.pdf
-- <b> Georgia’s Long-Term Low Emission Development Strategy 2050 <b>: https://www.undp.org/georgia/publications/georgia-low-emission-development-strategy-2050
+- <b> Georgia’s Long-Term Low Emission Development Strategy 2050 </b>: https://www.undp.org/georgia/publications/georgia-low-emission-development-strategy-2050
 
 ### EU accession <a name="eu-accession"></a> 
 
-- Communication on EU Enlargement policy - <b> Georgia 2023 Report Accompanying the document Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions 2023 <b>: https://neighbourhood-enlargement.ec.europa.eu/georgia-report-2023_en
+- Communication on EU Enlargement policy - <b> Georgia 2023 Report Accompanying the document Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions 2023 </b>: https://neighbourhood-enlargement.ec.europa.eu/georgia-report-2023_en
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
 
@@ -71,9 +71,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Studies and research papers <a name="studies-research"></a> 
 
 - <b> Urban public transport reform in Tbilisi </b>, Bankwatch, 2022: https://greenalt.org/app/uploads/2022/10/Tbilisi-urban-public-transit-reform.pdf
-- Georgia Transport Sector Assessment, Strategy, and Road Map, ADB, 2014: https://www.adb.org/documents/georgia-transport-sector-assessment-strategy-and-road-map
-- A Policy Framework for Green Transportation in Georgia, Wolrd Bank, 2012: https://documents1.worldbank.org/curated/en/229641468031545347/pdf/702900ESW0whit0nsportation00Final0.pdf
-- Decarbonisation scenarios for the transport sector in Georgia, New Climate Institute, GIZ, 2021: https://newclimate.org/sites/default/files/2021/01/NewClimate_Decarbonisation-scenarios-for-Georgia-transport-sector_Jan21_2.pdf
+- <b> Georgia Transport Sector Assessment, Strategy, and Road Map </b>, ADB, 2014: https://www.adb.org/documents/georgia-transport-sector-assessment-strategy-and-road-map
+- <b> A Policy Framework for Green Transportation in Georgia </b>, World Bank, 2012: https://documents1.worldbank.org/curated/en/229641468031545347/pdf/702900ESW0whit0nsportation00Final0.pdf
+- <b> Decarbonisation scenarios for the transport sector in Georgia </b>, New Climate Institute, GIZ, 2021: https://newclimate.org/sites/default/files/2021/01/NewClimate_Decarbonisation-scenarios-for-Georgia-transport-sector_Jan21_2.pdf
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
