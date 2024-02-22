@@ -31,6 +31,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
 - <b> National Road Safety Strategy 2022-2025 </b>: https://www.economy.ge/?page=ecopolitic&s=20
+- <b> Agriculture and Rural Development Strategy of Georgia 2021 – 2027 </b>, MEPA 2019, https://faolex.fao.org/docs/pdf/geo198335.pdf
   
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
@@ -74,6 +75,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - <b> Urban public transport reform in Tbilisi </b>, Bankwatch, 2022: https://greenalt.org/app/uploads/2022/10/Tbilisi-urban-public-transit-reform.pdf
 - <b> Decarbonisation scenarios for the transport sector in Georgia </b>, New Climate Institute, GIZ, 2021: https://newclimate.org/sites/default/files/2021/01/NewClimate_Decarbonisation-scenarios-for-Georgia-transport-sector_Jan21_2.pdf
+- <b> Draft National Sustainable Energy Action Plan of Georgia </b>, 2018: https://unece.org/fileadmin/DAM/project-monitoring/unda/16_17X/E2_A2.3/NSEAP_Georgia.pdf
 - <b> Georgia’s Transport And Logistics Strategy: Achievements To Date And Areas For Improvements </b>, World Bank, 2015: https://documents1.worldbank.org/curated/en/623591468191346382/pdf/96577-REVISED-WP-PUBLIC-Georgia-Box391464B-Final-Jan2015.pdf
 - <b> Georgia Transport Sector Assessment, Strategy, and Road Map </b>, ADB, 2014: https://www.adb.org/documents/georgia-transport-sector-assessment-strategy-and-road-map
 - <b> A Policy Framework for Green Transportation in Georgia </b>, World Bank, 2012: https://documents1.worldbank.org/curated/en/229641468031545347/pdf/702900ESW0whit0nsportation00Final0.pdf
