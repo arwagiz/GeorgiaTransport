@@ -37,6 +37,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - <b> Georgia’s Updated Nationally Determined Contribution (NDC) 2021 </b>: https://unfccc.int/sites/default/files/NDC/2022-06/NDC%20Georgia_ENG%20WEB-approved.pdf
 - <b> Georgia’s Long-Term Low Emission Development Strategy 2050 </b>: https://www.undp.org/georgia/publications/georgia-low-emission-development-strategy-2050
+- <b> Georgia's 2030 Climate Change Strategy </b> , MEPA 2021: https://mepa.gov.ge/En/Files/ViewFile/50123
 
 ### EU accession <a name="eu-accession"></a> 
 
@@ -71,10 +72,11 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Studies and research papers <a name="studies-research"></a> 
 
 - <b> Urban public transport reform in Tbilisi </b>, Bankwatch, 2022: https://greenalt.org/app/uploads/2022/10/Tbilisi-urban-public-transit-reform.pdf
+- <b> Decarbonisation scenarios for the transport sector in Georgia </b>, New Climate Institute, GIZ, 2021: https://newclimate.org/sites/default/files/2021/01/NewClimate_Decarbonisation-scenarios-for-Georgia-transport-sector_Jan21_2.pdf
+- <b> Georgia’s Transport And Logistics Strategy: Achievements To Date And Areas For Improvements </b>, World Bank, 2015: https://documents1.worldbank.org/curated/en/623591468191346382/pdf/96577-REVISED-WP-PUBLIC-Georgia-Box391464B-Final-Jan2015.pdf
 - <b> Georgia Transport Sector Assessment, Strategy, and Road Map </b>, ADB, 2014: https://www.adb.org/documents/georgia-transport-sector-assessment-strategy-and-road-map
 - <b> A Policy Framework for Green Transportation in Georgia </b>, World Bank, 2012: https://documents1.worldbank.org/curated/en/229641468031545347/pdf/702900ESW0whit0nsportation00Final0.pdf
-- <b> Decarbonisation scenarios for the transport sector in Georgia </b>, New Climate Institute, GIZ, 2021: https://newclimate.org/sites/default/files/2021/01/NewClimate_Decarbonisation-scenarios-for-Georgia-transport-sector_Jan21_2.pdf
-
+  
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
 - 
