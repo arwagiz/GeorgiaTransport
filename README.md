@@ -64,7 +64,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Batumi
 
-  - <b> Batumi Green City Action Plan <b>, EBRD: https://ebrdgreencities.com/assets/Uploads/PDF/Batumi-Green-City-Action-Plan-English-V5.pdf
+  - <b> Batumi Green City Action Plan </b>, EBRD: https://ebrdgreencities.com/assets/Uploads/PDF/Batumi-Green-City-Action-Plan-English-V5.pdf
   - <b> Integrated Sustainable Urban Mobility Plan of Batumi </b>, UNDP, 2017: https://www.undp.org/sites/g/files/zskgke326/files/migration/ge/UNDP_GE_ENV_Green_Cities_Batumi_Integrated_Sustainable_Urban_Mobility_Plan_ENG.pdf
  
   
